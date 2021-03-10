@@ -9,11 +9,17 @@ This library was created when Orangemn6 had the idea of a curated library of web
 
 ## Table of Contents
 
+
 [Videos](https://github.com/orangemn6/webdev-library#videos)
+
 [Courses](https://github.com/orangemn6/webdev-library#courses)
+
 [Blogs](https://github.com/orangemn6/webdev-library#blogs)
+
 [Tutorials](https://github.com/orangemn6/webdev-library#tutorials)
+
 [Nice Sites](https://github.com/orangemn6/webdev-library#nice-sites)
+
 [General Resources](https://github.com/orangemn6/webdev-library#general-resources)
 
 
