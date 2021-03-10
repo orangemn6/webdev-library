@@ -6,11 +6,20 @@ A curated library of web development resources
 
 This library was created when Orangemn6 had the idea of a curated library of web development tutorials in 2021. My goal is to fill this list so that future web developers can get educated on modern web development.
 
+
+[Videos](#Videos)
+[Courses](#Courses)
+[Blogs](#Blogs)
+[Tutorials](#Tutorials)
+[Nice Sites](#Nice Sites)
+[General Resources](#General Resources)
+
+
 ## Videos
 
 ## Courses
 
-## Blog Posts
+## Blogs
 
 ## Tutorials
 
